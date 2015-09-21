@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 my master is.
 kaigezuidiao
 hehehe
+Creating a new branch is quick.
